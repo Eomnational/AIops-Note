@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "967e73f21f897a7f",
+        "id": "2200952aa297201a",
         "type": "tabs",
         "children": [
           {
-            "id": "035de1d99f9808b9",
+            "id": "a97cc9cb1b229004",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.4"
             }
           }
         ]
@@ -188,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "035de1d99f9808b9",
+  "active": "a97cc9cb1b229004",
   "lastOpenFiles": [
     "解答.md",
     "一、云原生.md",
