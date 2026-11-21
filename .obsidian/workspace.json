@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2200952aa297201a",
+        "id": "daae329aa03c233a",
         "type": "tabs",
         "children": [
           {
-            "id": "a97cc9cb1b229004",
+            "id": "8a9c23933aa99635",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "ether.fi开卡攻略.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.14.4"
+              "icon": "lucide-file",
+              "title": "ether.fi开卡攻略"
             }
           }
         ]
@@ -190,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a97cc9cb1b229004",
+  "active": "8a9c23933aa99635",
   "lastOpenFiles": [
+    "QQ20261121-151617.png",
+    "ether.fi开卡攻略.md",
     "解答.md",
     "一、云原生.md",
     "picture/QQ_1777098292291.png",
